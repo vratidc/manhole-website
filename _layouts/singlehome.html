@@ -16,16 +16,6 @@ layout: default
 
 <div class = "ar_home">
 
-<!-- AR 360 images go here -->
-<!--
-<a-scene embedded style="margin:0px; padding:0px;">
-              <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
-              <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
-              <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
-              <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-              <a-sky color="#d2d5d6"></a-sky>
-        </a-scene>
--->
 
 <a-scene embedded style="margin:0px; padding:0px;">
   <a-assets>
@@ -40,17 +30,6 @@ layout: default
   <a-sky id="image-360" radius="100" src="#city"></a-sky>
  </a-entity>
 
-  
-  <!-- Camera + Cursor. -->
-<!--
-  <a-camera>
-    <a-cursor
-      id="cursor"
-      animation__click="property: scale; from: 0.1 0.1 0.1; to: 1 1 1; easing: easeInCubic; dur: 150; startEvents: click"
-      animation__clickreset="property: scale; to: 0.1 0.1 0.1; dur: 1; startEvents: animationcomplete__click"
-      animation__fusing="property: scale; from: 1 1 1; to: 0.1 0.1 0.1; easing: easeInCubic; dur: 150; startEvents: fusing"></a-cursor>
-  </a-camera>
--->
 </a-scene>
     
     
@@ -85,61 +64,10 @@ layout: default
    
 <div style="background: #f5f5f5; padding-top: 20px;">
 
-    <div id="main" role="main" style="margin: 0px auto;"> 
-     <div class = "projects" style="margin-top: 10px;"> 
-            <h1 id = "page-title" class = "page__title" >Selected Projects</h1>
-     </div>
-        
-        <div class="selected-projects" style="width:100%;" >
-        
-  {% include documents-collection-projects-homepage.html collection="projects" sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
-    
+
 </div>
-        
-
-        
-    
-    </div>
-    
-    <div id="main" role="main" style="margin-top: 0px; padding-bottom: 40px;"> 
-    
-    <div class = "home-button">
-        
-        <a class = "home-button" href="{{ site.baseurl }}/projects">All Projects ></a>
-        
-    </div>
-    
-    
-    </div>
-    
-    
-    
-   </div>
 
 
-    <div id="main" role="main" style="margin-top: 0px; margin-bottom: 20px;" > 
-    <div class = "publications" style="margin-top: 30px;"> 
-    <h1 id = "page-title" class = "page__title" >Publications & Activities</h1>
-    </div>
-
-    
-    <div class="selected-publications">
-        {% include documents-collection-publications-homepage.html collection="publications" sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}        
-    </div>
-
-        
-    </div>
-    
-    <div id="main" role="main" style="margin-top: 0px; padding-bottom: 40px;"> 
-    
-    <div class = "home-button">
-        
-        <a href="{{ site.baseurl }}/publications" >All Publications ></a>
-        
-    </div>
-    
-    
-    </div>
     
 
     

@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "imxd" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "manholevr" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "IMXD Lab"
+title                    : "Manhole - VR Film"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "IMXD Lab"
-description              : "IMXD's home on the web."
-url                      : "https://rishivanukuru.com/minimalimxd"
-baseurl                  : "/minimalimxd"
-repository               : "vanukuru/minimalimxd"
+name                     : "Manhole - VR Film"
+description              : "A VR Film Experience"
+url                      : ""
+baseurl                  : "/manholevr"
+repository               : "JayeshPillai/manhole-website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://rishivanukuru.com/minimalimxd/assets/img/imxd-logo-nb.png"
-masthead_title           : "IMXD Lab"
+logo                     : "/assets/img/imxd-logo-nb.png"
+masthead_title           : "Manhole VR"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
