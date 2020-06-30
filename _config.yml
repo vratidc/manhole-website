@@ -25,7 +25,7 @@ url                      : "https://jayeshpillai.github.io/"
 baseurl                  : "/"
 repository               : "JayeshPillai/manhole-website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assets/img/manholevr_logo.png"
+logo                     : "https://jayeshpillai.github.io/manhole-website/assets/img/manholevr_logo.png"
 masthead_title           : "Manhole VR"
 # breadcrumbs            : false # true, false (defaut)
 words_per_minute         : 200
