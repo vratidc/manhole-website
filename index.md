@@ -6,28 +6,46 @@ author_profile: false
 
 <a name="aboutinfo"></a>
 # EXPERIENCE
-MANHOLE - A VR Film Experience
-<div style="height:400px; padding-top: 20px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div style="height:200px; padding-top: 20px;  padding-bottom: 200px;">
 
+<div class = "home-button" style="height:100px; padding-top: 40px;">     
+ <a class = "home-button" href="{{ site.baseurl }}/about">About our Film ></a>       
+</div> 
 </div>
 
 <a name="aboutinfo"></a>
 # CONTEXT
-MANHOLE - A VR Film Experience
-<div style="height:400px; padding-top: 20px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div style="height:200px; padding-top: 20px;  padding-bottom: 200px;">
+<div class = "home-button" style="height:100px; padding-top: 40px;">     
+ <a class = "home-button" href="{{ site.baseurl }}/background">Manual Scavenging ></a>       
+</div> 
 
 </div>
 
 <a name="teaminfo"></a>
 # COLLABORATORS
-The people working on this.
-<div style="height:400px; padding-top: 20px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<div style="height:200px; padding-top: 20px;  padding-bottom: 200px;">
+<a href="https://www.thematchbox.co/" target="_blank"><img src="assets/img/mvrimages/partners_logo_tmb.png"></a>
+&emsp;&emsp;&emsp;&emsp;	
+<a href="http://www.idc.iitb.ac.in/" target="_blank"><img src="assets/img/mvrimages/partners_logo_idc.png"></a>
+
+<div class = "home-button" style="height:100px; padding-top: 40px;">     
+ <a class = "home-button" href="{{ site.baseurl }}/people">Our Team ></a>       
+</div> 
 
 </div>
 
+
 <a name="contactinfo"></a>
 # REACH OUT
-Reach out to us at: ...
-<div style="height:400px; padding-top: 20px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<div style="height:200px; padding-top: 20px;">
+
+<div class = "home-button" style="height:100px; padding-top: 40px; padding-bottom: 60px;">     
+ <a class = "home-button" href="{{ site.baseurl }}/contact">Our Contact></a>       
+</div> 
 
 </div>
