@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  <a class = "home-button" href="{{ site.baseurl }}/about">More about the film ▷</a>       
 </div> 
 
-<hr style="height:1px;border-width:0;color:g#fcd5ce;">
+<hr style="height:2px;border-width:0;color:g#fcd5ce;">
 
 <a name="aboutinfo"></a>
 # THE CONTEXT
@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  <a class = "home-button" href="{{ site.baseurl }}/background">Manual Scavenging ▷</a>       
 </div> 
 
-<hr style="height:1px;border-width:0;color:g#fcd5ce;">
+<hr style="height:1px;border-width:0;color:g#fcd5ce; background-color:g#fcd5ce;">
 
 <a name="teaminfo"></a>
 # THE COLLABORATORS
