@@ -4,12 +4,20 @@ permalink: /contact
 layout: contactsingle
 ---
 
-**VR located here:**
+**Openings:**
 
-IDC School of Design  
-IIT Bombay, Powai,  
-Mumbai - 400076, India  
+Currently no positions are not open.
 
-Mail: <a href="mailto:imxdlab@idc.iitb.ac.in">imxdlab@idc.iitb.ac.in</a>
+
+
+**Reach out to us:**
+
+Manhole VR Film
+
+Mail: <a href="mailto:contact@manholefilm.com">contact@manholefilm.com</a>
+
+
+
+
 
 
