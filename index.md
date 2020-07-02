@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div> 
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
-</br>
+<br>
 
 <a name="aboutinfo"></a>
 # THE CONTEXT
@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div> 
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
-</br>
+<br>
 
 <a name="teaminfo"></a>
 # THE COLLABORATORS
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
-</br>
+<br>
 
 <a name="contactinfo"></a>
 # REACH OUT
