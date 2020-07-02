@@ -7,6 +7,6 @@ main:
    - title: "Background"
      url: /background
    - title: "Team"
-     url: /people
+     url: /team
    - title: "Contact"
      url: /contact

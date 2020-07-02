@@ -1,10 +1,10 @@
 ---
 layout: single
 title:  Amal Dev
-position: Research Scholar
+position: Content Designer
 role: "team"
 header:
-    teaser: /assets/img/people/imxd_people_amaldev.jpg
+    teaser: /assets/img/people/mvr_team_amal.jpg
 permalink: /people/amal
 type: people
 ---

@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br>
 
 <a name="teaminfo"></a>
-# THE COLLABORATORS
+# COLLABORATORS
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 <div>
 <a href="https://www.thematchbox.co/" target="_blank"><img src="assets/img/mvrimages/partners_logo_tmb.png"></a>

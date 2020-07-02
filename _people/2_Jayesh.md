@@ -1,10 +1,10 @@
 ---
 layout: single
 title:  Jayesh Pillai
-position: Assistant Professor
+position: VR Director
 role: "team"
 header:
-    teaser: /assets/img/people/imxd_people_jayeshpillai.jpg
+    teaser: /assets/img/people/mvr_team_jayesh.jpg
 permalink: /people/jayesh
 type: people
 ---
