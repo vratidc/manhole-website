@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 &emsp;&emsp;&emsp;&emsp;	
 <a href="http://www.idc.iitb.ac.in/" target="_blank"><img src="assets/img/mvrimages/partners_logo_idc.png"></a>
 
-<div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 60px;">     
+<div class = "home-button" style="height:100px; padding-top: 40px; padding-bottom: 60px;">     
  <a class = "home-button" href="{{ site.baseurl }}/people">Meet the Team ▷</a>       
 </div> 
 
