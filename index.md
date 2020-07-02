@@ -7,18 +7,20 @@ author_profile: false
 <a name="aboutinfo"></a>
 # THE EXPERIENCE
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 60px;">     
+<div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">     
  <a class = "home-button" href="{{ site.baseurl }}/about">More about the film ▷</a>       
 </div> 
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <a name="aboutinfo"></a>
 # THE CONTEXT
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 60px;">       
+<div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">       
  <a class = "home-button" href="{{ site.baseurl }}/background">Manual Scavenging ▷</a>       
 </div> 
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <a name="teaminfo"></a>
 # THE COLLABORATORS
@@ -34,6 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </div>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <a name="contactinfo"></a>
 # REACH OUT
