@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div style="height:200px; padding-top: 20px;  padding-bottom: 200px;">
 
 <div class = "home-button" style="height:100px; padding-top: 40px;">     
- <a class = "home-button" href="{{ site.baseurl }}/about">About the Film ▷</a>       
+ <a class = "home-button" href="{{ site.baseurl }}/about">More about the film ▷</a>       
 </div> 
 </div>
 
