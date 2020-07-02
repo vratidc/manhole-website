@@ -14,7 +14,7 @@ Currently no positions are not open.
 
 Manhole VR Film
 
-Mail: <a href="mailto:contact@manholefilm.com">contact@manholefilm.com</a>
+Mail: <a href="mailto:contact@manholefilm.com?subject=Hi! ManholeVR Team">contact@manholefilm.com</a>
 
 
 
