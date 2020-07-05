@@ -5,14 +5,10 @@ layout: contactsingle
 ---
 
 
-<figure style="width: 200px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/billu1.png" alt="">
-  <figcaption>Hey there! I'm Billu!</figcaption>
+  <span style="text-align:center;"><figcaption>Hey there! I'm Billu.</figcaption></span>
 </figure> 
-
-**Openings:**
-
-Currently no positions are not open.
 
 
 
@@ -20,9 +16,14 @@ Currently no positions are not open.
 
 Manhole VR Film
 
-Mail: <a href="mailto:contact@manholefilm.com?subject=Hi! ManholeVR Team">contact@manholefilm.com</a>
+Mail: <a style="color: #ffba08;" href="mailto:contact@manholefilm.com?subject=Hi! ManholeVR Team">contact@manholefilm.com</a>
+
+<br><br>
 
 
+**Openings:**
+
+Currently no positions are not open.
 
 
 
