@@ -103,19 +103,19 @@ body {
     .home-button{
         a{
             font-weight: bold;
-            color: $primary-color;
+            color: $secondary-color;
             font-size: $type-size-6;
             padding: 0.5em 1em;
             border-style: solid;
-            border-width: medium;
-            border-color: $primary-color;
-            border-radius: 0.2em;
+            border-width: 2px;
+            border-color: $secondary-color;
+            border-radius: 0.3em;
         }
         
         a:hover{
-                       color: $background-color;
- background: $primary-color;
-            text-decoration: none;
+                       color: $primary-color;
+            background: $secondary-color;
+            text-decoration: none!important;
             
         }
         

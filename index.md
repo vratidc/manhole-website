@@ -6,7 +6,14 @@ author_profile: false
 
 <a name="aboutinfo"></a>
 # THE EXPERIENCE
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<figure class="align-center" style="width:400px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
+</figure> 
+
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">     
  <a class = "home-button" href="{{ site.baseurl }}/about">More about the film ▷</a>       
 </div> 
@@ -33,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a href="http://www.idc.iitb.ac.in/" target="_blank"><img src="assets/img/mvrimages/partners_logo_idc.png"></a>
 
 <div class = "home-button" style="height:100px; padding-top: 40px; padding-bottom: 80px;">     
- <a class = "home-button" href="{{ site.baseurl }}/people">Meet the Team ▷</a>       
+ <a class = "home-button" href="{{ site.baseurl }}/team">Meet the Team ▷</a>       
 </div> 
 
 </div>
