@@ -7,12 +7,15 @@ author_profile: false
 <a name="aboutinfo"></a>
 # THE EXPERIENCE
 
+Manhole is an immersive story experience. <br>
+It is an animated real-time Virtual Reality Film.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> "Compelled by the exigencies of poor economic life and marginalized caste-identity, Amitabh, a young law graduate, enters the occupation of manual scavenging. Despite his experience solely with the smaller manholes, Amitabh, for some extra money, decides to get inside a large unsafe sewer. He neither has a protective gear, nor the accompanying engineer to check for poisonous gases. Will Amitabh come out?"
 
 <figure class="align-center" style="width:400px;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_vr.png" alt="">
 </figure> 
+
 
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">     
  <a class = "home-button" href="{{ site.baseurl }}/about">More about the film ▷</a>       
@@ -23,7 +26,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <a name="aboutinfo"></a>
 # THE CONTEXT
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Manual scavenging is the act of manually cleaning human
+waste and is done by people called manual scavengers.
+
+<figure class="align-center" style="width:400px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/mvrimages/homepage_manholeenter.png" alt="">
+</figure> 
+
 <div class = "home-button" style="height:100px; padding-top: 20px; padding-bottom: 80px;">       
  <a class = "home-button" href="{{ site.baseurl }}/background">Manual Scavenging ▷</a>       
 </div> 
@@ -33,7 +43,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <a name="teaminfo"></a>
 # COLLABORATORS
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+This project is a collaboration between award-winning animators, VR filmmakers, and experienced developers and artists.
+
 <div>
 <a href="https://www.thematchbox.co/" target="_blank"><img src="assets/img/mvrimages/partners_logo_tmb.png"></a>
 &emsp;&emsp;&emsp;&emsp;	
@@ -50,9 +62,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <a name="contactinfo"></a>
 # REACH OUT
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Want to know more about the project? <br> 
+Wish to be a creative contributer of the project?  <br> 
+Or simply have a chat with us? 
 
 <div class = "home-button" style="height:100px; padding-top: 20px;">     
- <a class = "home-button" href="{{ site.baseurl }}/contact">Our Contact ▷</a>       
+ <a class = "home-button" href="{{ site.baseurl }}/contact">Contact us ▷</a>       
 </div> 
 

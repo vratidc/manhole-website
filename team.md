@@ -10,7 +10,8 @@ entries_layout: grid
 
 # <b>Collaborators</b>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This project is a collaboration between award-winning animators, VR filmmakers, and experienced developers and artists.
+
 <div>
 <a href="https://www.thematchbox.co/" target="_blank"><img src="assets/img/mvrimages/partners_logo_tmb.png"></a>
 &emsp;&emsp;&emsp;&emsp;	

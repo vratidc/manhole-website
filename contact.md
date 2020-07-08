@@ -23,7 +23,7 @@ Mail: <a style="color: #ffba08;" href="mailto:contact@manholefilm.com?subject=Hi
 
 **Openings:**
 
-Currently no positions are not open.
+Currently no positions are open.
 
 
 
