@@ -24,6 +24,7 @@ It is an animated real-time Virtual Reality Film.
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
 
+<div style="background-color:#cccccc;">
 <a name="aboutinfo"></a>
 # THE CONTEXT
 
@@ -40,6 +41,7 @@ waste and is done by people called manual scavengers.
 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
+</div> 
 
 <a name="teaminfo"></a>
 # COLLABORATORS
@@ -60,6 +62,7 @@ This project is a collaboration between award-winning animators, VR filmmakers, 
 <hr style="height:1px;border-width:0;color:#fcd5ce;background-color:#fcd5ce">
 <br>
 
+<div style="background-color:#cccccc;">
 <a name="contactinfo"></a>
 # REACH OUT
 
@@ -70,4 +73,4 @@ Or simply have a chat with us?
 <div class = "home-button" style="height:100px; padding-top: 20px;">     
  <a class = "home-button" href="{{ site.baseurl }}/contact">Contact us ▷</a>       
 </div> 
-
+</div> 
